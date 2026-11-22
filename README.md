@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=AI+%26+Full+Stack+Developer;Automation+Workflow+Builder;UI+%2F+UX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Vibe Coder;Full+Stack+Developer;Automation+Workflow+Builder;UI+%2F+UX+Designer" />
 </div>
 
 
@@ -35,7 +35,6 @@
       <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20What%20I%20Do-00CFFF?style=for-the-badge" /><br/><br/>
       🌐 Full Stack Development (MERN)<br/><br/>
       🎨 UI / UX Design<br/><br/>
-      🤖 LangChain &amp; LangGraph Agents<br/><br/>
       ⚙️ Automation Workflow Builder
     </td>
   </tr>
@@ -71,14 +70,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
-**🧠 AI & Agents**
-<p align="left">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white">
-
 </p>
 
 **🗄️ Databases**
